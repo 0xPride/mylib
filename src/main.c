@@ -10,7 +10,7 @@ int main()
 	mylib_list_add_front(list, mylib_list_node_create(strdup("0")));
 	mylib_list_add_back(list, mylib_list_node_create(strdup("2")));
 	mylib_list_add_back(list, mylib_list_node_create(strdup("4")));
-	mylib_list_add_at(list, mylib_list_node_create("3"), 30);
+	mylib_list_add_at(list, mylib_list_node_create("3"), 3);
 	mylib_list_node *current = list->head;
 	for (size_t i = 0; i < list->len; i++)
 	{

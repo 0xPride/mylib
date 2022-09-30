@@ -11,7 +11,7 @@ SRC_DIR = src/
 SRC_FILES = main.c
 
 LIST_DIR = $(SRC_DIR)list/
-LIST_FILES = create.c insert.c
+LIST_FILES = create.c insert.c search.c at.c
 
 CFILES = $(addprefix $(SRC_DIR), $(SRC_FILES))
 CFILES += $(addprefix $(LIST_DIR), $(LIST_FILES))
