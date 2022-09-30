@@ -1,0 +1,7 @@
+[
+  {
+    "directory": "/Users/habouiba/Work/mylib",
+    "command": "/usr/bin/gcc -Wall -Werror -Wextra -I include -c -o src/main.o src/main.c",
+    "file": "main.c"
+  }
+]
