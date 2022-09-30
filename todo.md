@@ -2,9 +2,9 @@
 
 - [x] creation
 
-- [ ] adding in front O(1)
-- [ ] adding in back O(1)
-- [ ] adding at index O(n)
+- [x] adding in front O(1)
+- [x] adding in back O(1)
+- [x] adding at index O(n)
 
 - [ ] deleting in front O(1)
 - [ ] deleting in back O(1)
@@ -13,4 +13,13 @@
 - [ ] search O(n)
 
 - [ ] len O(1)
+
+- [ ] map
+- [ ] iter
+
+- [ ] clone
+
+- [ ] merge tow sorted lists
+
+- [ ] sort
 
